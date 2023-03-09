@@ -20,7 +20,6 @@
     b = 200;
     c = 300;
 
-    / print values using pointer variable /
         printf("value of a: %d, b: %d, c: %d\n", *ptr[0], *ptr[1], *ptr[2]);
 
     / add 10 to all values using pointer /
